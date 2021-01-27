@@ -41,7 +41,7 @@ sys/stat.h
 netinet/in.h
 arpa/inet.h
 
-****************************************************
+====================================================
 O arquivo ZIP possui dois arquivos: cliente.c e server.c
 Os arquivos foram implementados no Ubuntu 12.04 LTS
 Neles foram implementados a transferência confiável de dados por meio de variáveis e verificações, são elas:
