@@ -15,7 +15,7 @@ To run the server:
 
 Compile in the terminal: gcc server.c -o server
 
-Run in the terminal: ./server PORTA
+Run in the terminal: ./server PORT
 
 The port must be greater than 5000
 ****************************************************
@@ -23,7 +23,7 @@ To run the client:
 
 Compile in the terminal: gcc cliente.c -o cliente
 
-Run in the terminal: ./cliente PORT_IP Address
+Run in the terminal: ./cliente IP_ADDR PORT
 
 The port must be the same as the port entered when running the server
 ****************************************************
